@@ -7,5 +7,6 @@ setup(
     author='Miles Cranmer',
     license='BSD',
     author_email='miles.cranmer@gmail.com',
-    url='https://github.com/MilesCranmer/cranmer_plot',
+    url='https://github.com/MilesCranmer/cranmerplot',
+    zip_safe=False
 )
