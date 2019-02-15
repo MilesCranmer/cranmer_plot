@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
     name='cranmerplot',
-    packages=[],
+    packages=['cranmerplot'],
     version='0.0.1',
     description='Personal plotting scripts',
     author='Miles Cranmer',
