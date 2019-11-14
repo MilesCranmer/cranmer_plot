@@ -1,2 +1,2 @@
-from plotdf import plotdf
-from density_scatter import density_scatter
+from cranmerplot.plotdf import plotdf
+from cranmerplot.density_scatter import density_scatter
